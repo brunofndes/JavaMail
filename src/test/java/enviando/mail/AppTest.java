@@ -13,7 +13,7 @@ import javax.mail.internet.MimeMessage;
 
 public class AppTest {
 	private String userName = "contatoveritasdev@gmail.com";
-	private String senha = "hlhv ngyr mcax rycp ";
+	private String senha = "senhanaoexistente";
 	
 	@org.junit.Test
 	public void testeEmail(){
